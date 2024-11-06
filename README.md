@@ -36,7 +36,13 @@ Here’s an example using a direct HTTP link to an image:
 
 Sometimes images are embedded using HTML directly:
 
-<img src="./assets/html-tag-image.png" alt="HTML Tag Image" width="200"/>
+*Absolute Url*
+
+<img src="./assets/indoor-plant-305-512x384.jpg" alt="HTML Tag Image" width="200"/>
+
+*Actual Url*
+
+<img src="https://fastly.picsum.photos/id/1008/512/384.jpg?hmac=AliEcjRkF8CHy5RBfblxvkq6xTYGH23fjNhXmnmnCVE" alt="HTML Tag Image" width="200"/>
 
 ---
 
